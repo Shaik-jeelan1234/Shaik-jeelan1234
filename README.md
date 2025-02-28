@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, .Net, React.js**
 
-- 👨‍💻 All of my projects are available at [https://shaik-jeelan-641.github.io/My-Portfolio/](https://shaik-jeelan-641.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://jeelan-portfolio-96c0c1.netlify.app/](https://jeelan-portfolio-96c0c1.netlify.app/)
 
 - 📫 How to reach me **shaikjeelan4e0@gmail.com**
 
